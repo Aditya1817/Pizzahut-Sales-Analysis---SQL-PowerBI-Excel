@@ -29,13 +29,4 @@ This project involves an **in-depth analysis of Pizza Hut's sales data**, aimed 
 ## Insights
 The project uncovered several key insights, such as identifying the top-performing products, analyzing customer demographics, and evaluating regional sales performance. These insights were visualized in the Power BI dashboard to enable data-driven decision-making.
 
-## Project Structure
-- `/SQL`: Contains SQL scripts for data extraction and transformation.
-- `/Excel`: Contains the Excel file used for initial data analysis.
-- `/PowerBI`: Contains the Power BI dashboard file (`.pbix`).
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-For any questions or inquiries, feel free to reach out via [email@example.com](mailto:email@example.com).
+# Author - Bommana Aditya
